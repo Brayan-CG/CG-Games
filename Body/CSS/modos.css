@@ -1,0 +1,20 @@
+body
+{
+   background: gray;
+}
+.modos a
+{
+    background: white;
+    color: rgb(49, 51, 50);
+    text-decoration: none;
+    padding: 2%;
+    border-radius: 64px;
+    width: 20%;
+    top: 20;
+}
+#atras
+{
+   position: absolute;
+   left: 0;
+   top: 60%;
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Hugo</title>
+    <script src="Body/JS/sweetalert.min.js"></script>
+    <link rel="stylesheet" href="Body/CSS/hugo.css">
+</head>
+<body>
+   
+   <center>
+
+    <div class="jugador">
+      <a id="piedra" href="javascript:piedra()"><img src="Body/Iconos/Piedra IMG 1.png" width="30%"></a>
+      <a id="tijeras" href="javascript:tijeras()"><img src="Body/Iconos/Tijeras IMG 1.png" width="30%"></a>
+      <a id="papel" href="javascript:papel()"><img src="Body/Iconos/Papel IMG 1.png" width="30%"></a>
+    </div>
+      
+     <div class="player">      
+       <img id="player0" src="Body/Iconos/Piedra IMG 3.png" width="30%"></img>
+       <img id="player1" src="Body/Iconos/Papel IMG 3.png" width="30%"></img>
+       <img id="player2" src="Body/Iconos/Tijeras IMG 3.png" width="30%"></img>
+     </div>       
+     
+     <div class="enemy">     
+       <img id="enemy0" src="Body/Iconos/Piedra IMG 2.png" width="30%"></img>
+       <img id="enemy1" src="Body/Iconos/Papel IMG 2.png" width="30%"></img>
+       <img id="enemy2" src="Body/Iconos/Tijeras IMG 2.png" width="30%"></img>
+     </div>
+     
+     <p id="Ganaste">Ganaste 😎</p>
+     <p id="Empate">Empate 🔥</p>
+     <p id="Perdiste">Perdiste 😭</p>
+     
+     <a id="Reinicio" href="javascript:Reinicio()">¿ Otra Ronda ?</a>
+     
+   </center>
+   
+    <script src="Body/JS/piedra.js"></script>
+    <script src="Body/JS/papel.js"></script>
+    <script src="Body/JS/tijeras.js"></script>
+    <script src="Body/JS/Botones.js"></script>
+</body>
+</html>

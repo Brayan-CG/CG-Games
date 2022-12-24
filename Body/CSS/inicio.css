@@ -1,0 +1,64 @@
+Body
+{
+   background: gray;
+}
+#Jugar
+{
+   position: absolute;
+   left: 0;
+   top: 60%;
+}
+#Facebook
+{
+   position: absolute;
+   left: 94%;
+   top: 4%;
+}
+#PayPal
+{
+   position: absolute;
+   left: 94%;
+   top: 20%;
+}
+#WhatsApp
+{
+   position: absolute;
+   left: 94%;
+   top: 36%;
+}
+#Facebook3
+{
+   display: none;
+   text-decoration: none;
+   text-align: center;
+   position: absolute;
+   background: rgb(255, 255, 255);
+   width: 20%;
+   height: 44%;
+   left: 40%;
+   top: 30%;
+   padding: 2px;
+   border-radius: 8px;
+
+}
+#Facebook3 a
+{
+   text-decoration: none;
+   color: rgb(75, 216, 197);
+}
+.cerrar
+{
+   position: fixed;
+   left: 0;
+   top: 0;
+}
+#intro{
+   position: absolute;
+   display: block;
+   z-index: 999;
+   overflow: hidden;
+   top: 0;
+   left: 0;
+   width: 100%;
+   transition: 2s;
+}

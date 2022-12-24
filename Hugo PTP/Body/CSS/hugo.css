@@ -1,0 +1,84 @@
+body
+{
+   background: #ccc;
+}
+#piedra
+{
+   display: block;
+}
+#player0
+{
+   display: none;
+   position: absolute;
+   left: 20%;
+   top: 10%;
+}
+#player1
+{
+   display: none;
+   position: absolute;
+   left: 20%;
+   top: 10%;
+}
+#player2
+{
+   display: none;
+   position: absolute;
+   left: 20%;
+   top: 10%;
+}
+#enemy0
+{
+   display: none;
+   position: absolute;
+   left: 50%;
+   top: 10%;
+}
+#enemy1
+{
+   display: none;
+   position: absolute;
+   left: 50%;
+   top: 10%;
+}
+#enemy2
+{
+   display: none;
+   position: absolute;
+   left: 50%;
+   top: 10%;
+}
+#Ganaste
+{
+   display: none;
+   position: absolute;
+   left: 43%;
+   top: 60%;
+}
+#Perdiste
+{
+   display: none;
+   position: absolute;
+   left: 43%;
+   top: 60%;
+}
+#Empate
+{
+   display: none;
+   position: absolute;
+   left: 43%;
+   top: 60%;
+}
+#Reinicio
+{
+   display: none;
+   position: absolute;
+   left: 38%;
+   top: 78%;
+   padding: 2%;
+   border: gray 3px solid;
+   border-radius: 8px;
+   background: cyan;
+   color: gray;
+   text-decoration: none;
+}
