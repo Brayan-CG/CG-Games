@@ -25,12 +25,3 @@ function WhatsApp(){
 function cerrar(){
    document.getElementById("Facebook3").style.display="none";
 }
-function atras(){
-   location.href="inicio2.html"
-}
-function normal(){
-   location.href="hugo.html"
-}
-function multijugador(){
-   location.href="#"
-}
