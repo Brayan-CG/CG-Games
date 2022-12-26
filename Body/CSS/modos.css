@@ -2,9 +2,29 @@ body
 {
    background: gray;
 }
-.modos a
+#hugo
 {
     background: white;
+    color: rgb(49, 51, 50);
+    text-decoration: none;
+    padding: 2%;
+    border-radius: 64px;
+    width: 20%;
+    top: 20;
+}
+#apack
+{
+   background: white;
+    color: rgb(49, 51, 50);
+    text-decoration: none;
+    padding: 2%;
+    border-radius: 64px;
+    width: 20%;
+    top: 20;
+}
+#multi
+{
+   background: white;
     color: rgb(49, 51, 50);
     text-decoration: none;
     padding: 2%;
@@ -17,4 +37,12 @@ body
    position: absolute;
    left: 0;
    top: 60%;
+}
+#próximo
+{
+   display: none;
+   padding: 2%;
+   border-radius: 8px;
+   background: #fff;
+   width: 40%;
 }
