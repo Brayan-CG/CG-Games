@@ -1,11 +1,4 @@
-swal("Inicia el juego");
-
-swal("Elije tu ataque 0 para piedra 1 para papel y 2 para tijeras ", {
-  content: "input",
-})
-.then((player) => {
-  if (player == 0) {
-    document.getElementById("player0").style.display="block";
+document.getElementById("player0").style.display="block";
 }else if (player == 1) {
     document.getElementById("player1").style.display="block";
 }else if (player == 2) {
