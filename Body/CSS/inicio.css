@@ -62,3 +62,29 @@ Body
    width: 100%;
    transition: 2s;
 }
+
+.política
+{
+    background: #fff;
+    display: none;
+    color: #000;
+    position: absolute;
+    padding: 2%;
+    top: 14%;
+    left: 8%;
+    width: 80%;
+    height: auto;
+    border-radius: 10px;
+}
+.política a img
+{
+    position: absolute;
+    top: 2%;
+    left: 2%;
+    width: 10%;
+}
+.política h3
+{
+    color: #999;
+    text-align: center;
+}
