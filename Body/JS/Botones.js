@@ -7,6 +7,9 @@ function Jugar(){
 function info(){
    location.href="Info.html"
 }
+function historial(){
+   location.href="go:Historial"
+}
 function Facebook1(){
    location.href="https://www.facebook.com/luisenri.cordobamartinez"
 }
