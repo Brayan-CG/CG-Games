@@ -2,41 +2,19 @@ body
 {
    background: gray;
 }
-#hugo
+#modos a img
 {
-    background: white;
-    color: rgb(49, 51, 50);
-    text-decoration: none;
-    padding: 2%;
-    border-radius: 64px;
-    width: 20%;
-    top: 20;
-}
-#apack
-{
-   background: white;
-    color: rgb(49, 51, 50);
-    text-decoration: none;
-    padding: 2%;
-    border-radius: 64px;
-    width: 20%;
-    top: 20;
-}
-#multi
-{
-   background: white;
-    color: rgb(49, 51, 50);
-    text-decoration: none;
-    padding: 2%;
-    border-radius: 64px;
-    width: 20%;
-    top: 20;
+   border-radius: 8px;
+   float: left;
+   margin-left: 6px;
+   margin-bottom: 6px;
 }
 #atras
 {
    position: absolute;
-   left: 0;
-   top: 60%;
+   float: left;
+   left: 2%;
+   top: 2%;
 }
 #próximo
 {
