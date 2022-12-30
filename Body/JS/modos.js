@@ -1,26 +1,38 @@
 function atras(){
    location.href="inicio2.html"
 }
-function primero(){
+function juego1(){
    location.href="go:1"
 }
-function segundo(){
+function juego2(){
    location.href="go:2"
 }
-function tercero(){
+function juego3(){
    location.href="go:3"
 }
-function cuarto(){
+function juego4(){
    location.href="go:4"
 }
-function quinto(){
+function juego5(){
    location.href="go:5"
 }
-function sesto(){
+function juego6(){
    location.href="go:6"
 }
-function hugo(){
-   location.href="Hugo PTP/hugo.html"
+function juego7(){
+   location.href="go:7"
+}
+function juego8(){
+   location.href="go:8"
+}
+function juego9(){
+   location.href="go:9"
+}
+function juego10(){
+   location.href="go:10"
+}
+function juego11(){
+   location.href="go:11"
 }
 function apack(){
    location.href="#"

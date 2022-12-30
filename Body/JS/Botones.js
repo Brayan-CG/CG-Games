@@ -10,11 +10,26 @@ function info(){
 function historial(){
    location.href="go:Historial"
 }
+function chat(){
+   location.href="go:Chat"
+}
+function user(){
+   location.href="http://action_profile"
+}
+function noti(){
+   location.href="http://action_notifications"
+}
+function share(){
+   location.href="http://action_share"
+}
 function Facebook1(){
    location.href="https://www.facebook.com/luisenri.cordobamartinez"
 }
 function Facebook2(){
    location.href="https://www.facebook.com/profile.php?id=100076531763610"
+}
+function Facebook4(){
+   location.href="https://www.facebook.com/profile.php?id=100089157482856"
 }
 function Facebook(){
    document.getElementById("Facebook3").style.display="block";
@@ -25,6 +40,4 @@ function PayPal(){
 function WhatsApp(){
    location.href="https://chat.whatsapp.com/Jasoh48jrrv7H3e4DpXQWI"
 }
-function cerrar(){
-   document.getElementById("Facebook3").style.display="none";
-}
+
