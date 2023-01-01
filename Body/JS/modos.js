@@ -34,6 +34,18 @@ function juego10(){
 function juego11(){
    location.href="go:11"
 }
+function juego12(){
+   location.href="go:12"
+}
+function juego13(){
+   location.href="go:13"
+}
+function juego14(){
+   location.href="go:14"
+}
+function juego15(){
+   location.href="go:15"
+}
 function apack(){
    location.href="#"
 }
