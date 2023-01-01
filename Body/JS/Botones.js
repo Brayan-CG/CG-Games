@@ -16,6 +16,9 @@ function chat(){
 function user(){
    location.href="http://action_profile"
 }
+function User(){
+   location.href="go:User"
+}
 function noti(){
    location.href="http://action_notifications"
 }
