@@ -2,10 +2,10 @@ function Reinicio(){
    location.href="hugo.html";
 }
 function Jugar(){
-   location.href="modos.html"
+   location.href="modos Pro.html"
 }
 function info(){
-   location.href="Info.html"
+   location.href="Info Pro.html"
 }
 function historial(){
    location.href="go:Historial"

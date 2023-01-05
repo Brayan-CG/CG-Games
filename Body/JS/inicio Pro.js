@@ -1,9 +1,3 @@
-setTimeout(function() {
-
-    document.getElementById("Pro").style.display="block";
-    
-}, 1000*4);
-
 function abrir(){
     document.getElementById("política").style.display="block";
 }
@@ -26,7 +20,4 @@ function abrir2(){
     
 }, 1000*4);
    
-}
-function cerrar3(){
-    document.getElementById("Pro").style.display="none";
 }

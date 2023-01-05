@@ -1,13 +1,5 @@
-setTimeout(function() {
-
-   document.getElementById("Pro").style.display="block";
-   
-}, 1000*4);
-function cerrar3(){
-   document.getElementById("Pro").style.display="none";
-}
 function atras(){
-   location.href="inicio.html"
+   location.href="inicio Pro.html"
 }
 function juego1(){
    location.href="go:1"

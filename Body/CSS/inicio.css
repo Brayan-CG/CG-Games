@@ -99,8 +99,37 @@ Body
     color: #999;
     text-align: center;
 }
-#fond
+.Pro
 {
-   position: absolute;
-   margin: auto;
+    background: #cececc;
+    display: none;
+    color: #000;
+    position: absolute;
+    padding: 2%;
+    top: 14%;
+    left: 8%;
+    width: 80%;
+    height: auto;
+    border-radius: 10px;
+}
+.Pro a img
+{
+    position: absolute;
+    top: 2%;
+    left: 2%;
+    width: 10%;
+}
+.Pro h2
+{
+    color: rgb(121, 98, 173);
+    text-align: center;
+}
+#boton
+{
+    color: rgb(121, 98, 173);
+    text-align: center;
+    padding: 1%;
+    border-radius: 8px;
+    background: #ffffff;
+    text-decoration: none;
 }
