@@ -1,6 +1,6 @@
 Body
 {
-   background: #ffffff;
+   background: url("P2.gif") no-repeat center;
 }
 #Jugar
 {
@@ -18,6 +18,7 @@ Body
 #Facebook
 {
    position: absolute;
+   width: ;
    left: 94%;
    top: 20%;
 }
@@ -38,11 +39,9 @@ Body
    display: none;
    text-decoration: none;
    text-align: center;
-   position: absolute;
+   margin: auto;
    background: #00eaff;
-   width: 24%;
-   left: 40%;
-   top: 30%;
+   width: auto;
    padding: 1px;
    border-radius: 8px;
 
@@ -58,7 +57,7 @@ Body
    left: 0;
    top: 0;
 }
-#menú
+#menu
 {
    background: grey;
    display: none;
@@ -69,7 +68,7 @@ Body
    width: 40%;
    
 }
-#menú a
+#menu a
 {
    text-decoration: none;
    color: #000;
@@ -92,44 +91,15 @@ Body
     position: absolute;
     top: 2%;
     left: 2%;
-    width: 5%;
+    width: 10%;
 }
 .política h3
 {
     color: #999;
     text-align: center;
 }
-.Pro
+.Icon
 {
-    background: #cececc;
-    display: none;
-    color: #000;
-    position: absolute;
-    padding: 2%;
-    top: 14%;
-    left: 8%;
-    width: 80%;
-    height: auto;
-    border-radius: 10px;
-}
-.Pro a img
-{
-    position: absolute;
-    top: 2%;
-    left: 2%;
-    width: 10%;
-}
-.Pro h2
-{
-    color: rgb(121, 98, 173);
-    text-align: center;
-}
-#boton
-{
-    color: rgb(121, 98, 173);
-    text-align: center;
-    padding: 1%;
-    border-radius: 8px;
-    background: #ffffff;
-    text-decoration: none;
+   position: absolute;
+   margin: auto;
 }

@@ -1,6 +1,6 @@
 body
 {
-   background: gray;
+   background: url("Fondo2.gif");
 }
 #modos a img
 {
@@ -12,50 +12,8 @@ body
 }
 #atras
 {
-   position: absolute;
+   position: relative;
    float: left;
    left: 2%;
    top: 2%;
-}
-#próximo
-{
-   display: none;
-   padding: 2%;
-   border-radius: 8px;
-   background: #fff;
-   width: 40%;
-}
-.Pro
-{
-    background: #cececc;
-    display: none;
-    color: #000;
-    position: absolute;
-    padding: 2%;
-    top: 14%;
-    left: 8%;
-    width: 80%;
-    height: auto;
-    border-radius: 10px;
-}
-.Pro a img
-{
-    position: absolute;
-    top: 2%;
-    left: 2%;
-    width: 10%;
-}
-.Pro h2
-{
-    color: rgb(121, 98, 173);
-    text-align: center;
-}
-#boton
-{
-    color: rgb(121, 98, 173);
-    text-align: center;
-    padding: 1%;
-    border-radius: 8px;
-    background: #ffffff;
-    text-decoration: none;
 }
