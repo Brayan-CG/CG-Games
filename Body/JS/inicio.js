@@ -1,32 +1,26 @@
-setTimeout(function() {
-
-    document.getElementById("Pro").style.display="block";
-    
-}, 1000*4);
-
 function abrir(){
     document.getElementById("política").style.display="block";
 }
 
 function cerrar(){
     document.getElementById("política").style.display="none";
+    
 }
-function abrir2(){
-   document.getElementById("menú").style.display="block";
-   document.getElementById("abrir2").style.display="none";
-   
+
+function menu(){
+   document.getElementById("menu").style.display="block";
+   document.getElementById("me").style.display="none";
    document.getElementById("Jugar").style.display="none";
    
    setTimeout(function() {
 
-    document.getElementById("menú").style.display="none";
-   document.getElementById("abrir2").style.display="block";
-   
+    document.getElementById("menu").style.display="none";
+   document.getElementById("me").style.display="block";
    document.getElementById("Jugar").style.display="block";
     
 }, 1000*4);
    
 }
-function cerrar3(){
-    document.getElementById("Pro").style.display="none";
+function cerrar1(){
+   document.getElementById("Facebook3").style.display="none";
 }

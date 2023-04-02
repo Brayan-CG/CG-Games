@@ -1,11 +1,3 @@
-setTimeout(function() {
-
-   document.getElementById("Pro").style.display="block";
-   
-}, 1000*4);
-function cerrar3(){
-   document.getElementById("Pro").style.display="none";
-}
 function atras(){
    location.href="inicio.html"
 }
@@ -54,51 +46,9 @@ function juego14(){
 function juego15(){
    location.href="go:15"
 }
+function juego16(){
+   location.href="go:16"
+}
 function apack(){
    location.href="#"
-}
-function multijugador(){
-   document.getElementById("próximo").style.display="block";
-   
-   document.getElementById("hugo").style.display="none";
-   
-   document.getElementById("apack").style.display="none";
-    
-    document.getElementById("multi").style.display="none";
-   
-   setTimeout(function() {
-
-    document.getElementById("próximo").style.display="none";
-    
-    document.getElementById("hugo").style.display="block";
-    
-    document.getElementById("apack").style.display="block";
-    
-    document.getElementById("multi").style.display="block";
-    
-}, 1500*1);
-
-}
-
-function apack(){
-   document.getElementById("próximo").style.display="block";
-   
-   document.getElementById("hugo").style.display="none";
-   
-   document.getElementById("apack").style.display="none";
-    
-    document.getElementById("multi").style.display="none";
-   
-   setTimeout(function() {
-
-    document.getElementById("próximo").style.display="none";
-    
-    document.getElementById("hugo").style.display="block";
-    
-    document.getElementById("apack").style.display="block";
-    
-    document.getElementById("multi").style.display="block";
-    
-}, 1500*1);
-
 }

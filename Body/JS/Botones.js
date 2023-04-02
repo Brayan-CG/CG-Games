@@ -10,9 +10,6 @@ function info(){
 function historial(){
    location.href="go:Historial"
 }
-function Pro(){
-   location.href="go:Pro"
-}
 function chat(){
    location.href="go:Chat"
 }
@@ -44,8 +41,6 @@ function PayPal(){
    location.href="https://www.paypal.com/paypalme/cgstudios64"
 }
 function WhatsApp(){
-   location.href="https://chat.whatsapp.com/Jasoh48jrrv7H3e4DpXQWI"
+   location.href="https://chat.whatsapp.com/KpqrCgnZgv7BdkoHBQZSxW"
 }
-function cerrar2(){
-   document.getElementById("Facebook3").style.display="none";
-}
+
